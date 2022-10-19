@@ -5,7 +5,7 @@ It's made with SQL, JavaScript, HTML&CSS and C#
 
 Preview:
 
-![One](https://user-images.githubusercontent.com/100083184/196521044-29ea028b-64af-4e7a-bf16-2517a3bdf7ff.png)
+![One](https://user-images.githubusercontent.com/100083184/196580347-790e795f-6f6f-4d50-ab71-db03ea341481.png)
 
 ![Two](https://user-images.githubusercontent.com/100083184/196521130-f5d6e926-e97d-4524-849c-081fbe8a4f36.png)
 
